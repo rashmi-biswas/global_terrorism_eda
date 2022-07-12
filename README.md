@@ -27,5 +27,10 @@ The **Global Terrorism Database (GTD)** is an open-source database including inf
 <li>to study and analyze the different terrorism acts that have taken place in various parts of the world, at different times.</li>
 <li>to get acquaint of different types of terrorism acts</li>
 <li>to analyze categories of terrorism acts</li>
-<li>to study distribution of terrorism acts<li>
+<li>to study distribution of terrorism acts</li>
 <li>to draw statistical conclusions</li>
+<p>
+
+<p align="center"> 
+  <img src="Images/167024-terrorism.jpg" alt="167024-terrorism.jpg" width="1000px" height="500px">
+</p>
